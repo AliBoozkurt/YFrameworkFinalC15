@@ -13,3 +13,4 @@ And User deletes data with userID
 Examples:
 |name     |email   					  |gender   | status |
 |Mr.API   |apiTest@yoll.io    |male     |active  |
+#|Mr.API   |apiTest@yoll.io    |male     |active  |
