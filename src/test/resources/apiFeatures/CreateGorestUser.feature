@@ -10,6 +10,7 @@ Then User retrieves userID from response
 And User deletes data with userID
 #And new line added
 #Ali Bozkurt - C-002
+#Ali Bozkurt - C-002
 
 Examples:
 |name     |email   					  |gender   | status |
