@@ -8,7 +8,6 @@ When User sumbits POST request to GOREST api
 And User validates if statusCode is 201
 Then User retrieves userID from response 
 And User deletes data with userID
-#New line added
 
 Examples:
 |name     |email   					  |gender   | status |
