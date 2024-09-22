@@ -9,8 +9,8 @@ And User validates if statusCode is 201
 Then User retrieves userID from response 
 And User deletes data with userID
 #And new line added
-#Ali Bozkurt - C-001
+#Ali Bozkurt - C-002
 
-  Examples:
+Examples:
 |name     |email   					  |gender   | status |
 |Mr.API   |apiTest@yoll.io    |male     |active  |
