@@ -9,7 +9,7 @@ And User validates if statusCode is 201
 Then User retrieves userID from response 
 And User deletes data with userID
 #And User edits data with userID
-
+#And User deletes data with userID
 Examples:
 |name     |email   					  |gender   | status |
 |Mr.API   |apiTest@yoll.io    |male     |active  |
