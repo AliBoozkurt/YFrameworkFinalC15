@@ -11,6 +11,7 @@ And User deletes data with userID
 #And User edits data with userID
 #And User ADDS data with userID
 #And User deletes data with userID
+  #And User Person B adds data
 Examples:
 |name     |email   					  |gender   | status |
 |Mr.API   |apiTest@yoll.io    |male     |active  |
