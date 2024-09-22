@@ -11,6 +11,7 @@ And User deletes data with userID
 #And User edits data with userID
 #And User ADDS data with userID
 #And User deletes data with userID
+  #And User Person B adds data
   #And User Person A deletes data
 Examples:
 |name     |email   					  |gender   | status |
